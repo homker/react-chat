@@ -1,0 +1,43 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-size: 13px;
+  line-height: 20px;
+}
+
+#app{
+  padding-left: 15px;
+  padding-top: 25px;
+}
+
+.container{
+  padding: 18px;
+}
+
+.logo{
+    display: block;
+}
+
+.logo span{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.login-box{
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 5%;
+  margin-bottom: 15%;
+}
+
+.comment {
+    padding: 10px;
+    font-size: 1.5rem;
+}
+.comment span{
+    margin-left: 3%;
+}
